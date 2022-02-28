@@ -12,5 +12,5 @@ Thing 3  : Learn Programming in Python
 
 Tell me a little about yourself (e.g. hobbies, career aspirations): I like watching movies and reading. I am an international student from India and I plan to work in academia after completing my Ph.D. 
 
-Photo: ![New Doc 2018-06-18 (2) (1) (1)](https://user-images.githubusercontent.com/97543883/150624473-6a4de87f-6d96-4918-bc85-0ff657d82516.jpg)
+
 
