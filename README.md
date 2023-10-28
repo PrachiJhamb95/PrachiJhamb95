@@ -1,16 +1,5 @@
-Name: Prachi Jhamb
-Preferred Name: Prachi
-Preferred Pronoun: She/Her
-Major: Agricultural and Applied Economics 
-Degree : Ph.D. in Agricultural and Applied Economics
-
-List 3 things you hope to get out of the class:
-
-Thing 1 : Get better at handling data and data visualization
-Thing 2 : Learn SQL and Git
-Thing 3  : Learn Programming in Python
-
-Tell me a little about yourself (e.g. hobbies, career aspirations): I like watching movies and reading. I am an international student from India and I plan to work in academia after completing my Ph.D. 
-
-
+Hi 👋🏼.  I am Prachi Jhamb. About me - As a PhD candidate in Applied Economics at the University of Georgia, I am passionate about empirical research at the intersection of environment and development economics. My work primarily focuses on the economics of wild meat hunting in Africa, where I explore the complex relationships between environmental sustainability, economic development, and human well-being.
+My ultimate career aspiration is to bring my extensive research experience and technical skill set into the industry, where I aim to design and lead rigorous causal studies that address critical business questions. Throughout my academic journey, I have honed my expertise in econometrics, data analysis, and quantitative methodologies, which I am eager to apply to real-world challenges in economics, finance, and data science.
+I am excited about opportunities to collaborate with industry professionals, organizations, and teams who share a commitment to data-driven decision-making and evidence-based solutions. Let's connect and explore how we can work together to drive meaningful and impactful insights in the fields of economics, finance, and data science.
+📫 How to reach me: You can reach me at prachi.jhamb9524@gmail.com. 
 
